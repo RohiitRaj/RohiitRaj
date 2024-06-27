@@ -1,3 +1,4 @@
+![logo](https://github.com/RohiitRaj/RohiitRaj/blob/main/logo.jpg)
 <h1 align="center">Hi 👋, I'm Rohit Raj Bharti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
